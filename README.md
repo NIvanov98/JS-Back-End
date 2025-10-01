@@ -27,7 +27,7 @@ SoftUni JS-Back-End Module
 ### Create Movie
 
 - [x] Add movie controller
-- [ ] Show create movie page
+- [x] Show create movie page
 - [ ] Add routes
 - [ ] Read body data
 - [ ] Create movie
