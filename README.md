@@ -20,7 +20,7 @@ SoftUni JS-Back-End Module
 
 - [x] Add home controller
 - [x] Add movie data layer
-- [ ] Add movies service
+- [x] Add movies service
 - [ ] Render movies on home page
 - [ ] Show no movies screen
 - [ ] Add routes
