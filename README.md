@@ -12,3 +12,4 @@ SoftUni JS-Back-End Module
 - [x] Setup static files
 - [x] Render Home Page
 - [x] Add Layout
+- [x] Render About Page
