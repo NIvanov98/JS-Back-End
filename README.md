@@ -4,6 +4,8 @@ SoftUni JS-Back-End Module
 
 ## Development Steps
 
+### Setup
+
 - [x] Initialize Project
 - [x] Add Express Server
 - [x] Config debugging
@@ -13,3 +15,12 @@ SoftUni JS-Back-End Module
 - [x] Render Home Page
 - [x] Add Layout
 - [x] Render About Page
+
+### Architecture
+
+- [x] Add home controller
+- [ ] Add movie data layer
+- [ ] Add movies service
+- [ ] Render movies on home page
+- [ ] Show no movies screen
+- [ ] Add routes
