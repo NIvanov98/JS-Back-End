@@ -8,4 +8,6 @@ SoftUni JS-Back-End Module
 - [x] Add Express Server
 - [x] Add resources
 - [x] Setup Handlebars
+- [] Setup static files
 - [] Render Home Page
+- [] Config debugging
