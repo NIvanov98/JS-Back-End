@@ -11,3 +11,4 @@ SoftUni JS-Back-End Module
 - [x] Setup Handlebars
 - [x] Setup static files
 - [x] Render Home Page
+- [x] Add Layout
