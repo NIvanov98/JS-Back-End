@@ -1,0 +1,13 @@
+{
+	"name": "js-back-end",
+	"version": "1.0.0",
+	"description": "SoftUni JS-Back-End Module",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"dev": "node --watch src/index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
