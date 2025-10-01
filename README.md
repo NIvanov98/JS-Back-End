@@ -31,11 +31,10 @@ SoftUni JS-Back-End Module
 - [x] Add routes
 - [x] Read body data
 - [x] Create movie
-
   - [x] Add action
   - [x] Add service
   - [x] Add model method for creating movie
-
 - [x] Redirect after creation
+- [x] Add unique ID for each created movie
 
 - [ ] Add 404 page
