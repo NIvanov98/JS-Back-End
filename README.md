@@ -16,11 +16,24 @@ SoftUni JS-Back-End Module
 - [x] Add Layout
 - [x] Render About Page
 
-### Architecture
+### Architecture and dynamic rendering
 
 - [x] Add home controller
 - [x] Add movie data layer
 - [x] Add movies service
 - [x] Render movies on home page
 - [x] Show no movies screen
+
+### Create Movie
+
+- [x] Add movie controller
+- [ ] Show create movie page
 - [ ] Add routes
+- [ ] Read body data
+- [ ] Create movie
+
+  - [ ] Add action
+  - [ ] Add service
+  - [ ] Add model method for creating movie
+
+- [ ] Add 404 page
