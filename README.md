@@ -15,6 +15,7 @@ SoftUni JS-Back-End Module
 - [x] Render Home Page
 - [x] Add Layout
 - [x] Render About Page
+- [x] Add 404 page
 
 ### Architecture and dynamic rendering
 
@@ -37,4 +38,13 @@ SoftUni JS-Back-End Module
 - [x] Redirect after creation
 - [x] Add unique ID for each created movie
 
-- [ ] Add 404 page
+### Details
+
+- [ ] Add navigation button for detail page
+- [ ]
+
+### Search
+
+### Bonuses
+
+- [ ] File Persistance
