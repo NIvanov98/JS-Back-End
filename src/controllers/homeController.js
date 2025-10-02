@@ -6,8 +6,6 @@ const homeController = Router();
 homeController.get("/", (req, res) => {
 	const movies = movieService.getAll();
 
-	console.log(movies);
-
 	res.render("home", { movies });
 });
 
