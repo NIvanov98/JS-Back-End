@@ -40,8 +40,8 @@ SoftUni JS-Back-End Module
 
 ### Details
 
-- [ ] Add navigation button for detail page
-- [ ] Add route with param details page
+- [x] Add navigation button for detail page
+- [x] Add route with param details page
 - [ ] GetOne movie from service
 - [ ] Find movie by id from model
 - [ ] Render details page with dynamic data
